@@ -16,7 +16,7 @@ namespace hahahaha
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Отчет());
+            Application.Run(new login());
         }
     }
 }
